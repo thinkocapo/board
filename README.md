@@ -2,6 +2,13 @@
 
 A React board app built for demo'ing board productivity tools like task management and issues. Demonstrates automatic and manual Sentry instrumentation across errors, performance traces, breadcrumbs, context, and session replay.
 
+<img src="board.png" width="50%" alt="Board view" />
+
+<table><tr>
+  <td><img src="task-move.png" width="100%" alt="Task move trace" /></td>
+  <td><img src="traces.png" width="100%" alt="Traces" /></td>
+</tr></table>
+
 ---
 
 ## SETUP
