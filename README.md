@@ -1,6 +1,6 @@
 # Monday Lite — Sentry Demo App
 
-A React board app built for Sentry.io sales demos to Monday.com engineers. Demonstrates automatic and manual Sentry instrumentation across errors, performance traces, breadcrumbs, context, and session replay.
+A React board app built for demo'ing board productivity tools like task management and issues. Demonstrates automatic and manual Sentry instrumentation across errors, performance traces, breadcrumbs, context, and session replay.
 
 ---
 
